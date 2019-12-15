@@ -1,7 +1,8 @@
+package cn.mldn.demo;
+
 import java.util.List;
 public class Admin{
-	private List<Emp> emps;
 	private String aid;
-	private List<Action> action;
+	private String password;
 	
 }
