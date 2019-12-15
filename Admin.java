@@ -1,7 +1,8 @@
-package cn.mldn.demo;
+package cn.mldn.vo
 
-import java.util.List;
-public class Admin{
+import java.io.*;
+
+public class Admin implements Serializable{
 	private String aid;
 	private String password;
 	
